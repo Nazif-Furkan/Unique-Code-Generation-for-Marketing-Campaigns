@@ -1,4 +1,4 @@
-# KaizenCaseStudy
+# Unique Code Generation for Marketing Campaigns
  
 ## Prerequirements
 
@@ -8,5 +8,5 @@
 ## How To Run
 
 * Open solution in Visual Studio
-* Set Question1 or Question2 project as Startup Project and build the project.
+* Build the project.
 * Run the application.
