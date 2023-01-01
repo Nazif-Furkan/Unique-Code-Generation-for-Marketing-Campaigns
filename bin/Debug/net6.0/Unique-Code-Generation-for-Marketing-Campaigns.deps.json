@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Unique-Code-Generation-for-Marketing-Campaigns/1.0.0": {
+        "runtime": {
+          "Unique-Code-Generation-for-Marketing-Campaigns.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unique-Code-Generation-for-Marketing-Campaigns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
